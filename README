@@ -1,6 +1,0 @@
-credit_scoring_api/
-├── main.py #with FAST api code
-├── requirements.txt
-├── credit_scoring_pipeline.pkl  # Created by your modified ML script - training.py
-└── categorical_mappings.pkl     # Created by your modified ML script - training.py
-└── sampled.csv   
