@@ -1,4 +1,4 @@
-# Credit Confidence Score Engine
+# AI-Powered Loans' Credit Assesment Engine
 
 An intelligent credit scoring system that combines machine learning predictions with AI-powered creditworthiness assessment to provide comprehensive credit evaluations for loan applications.
 
